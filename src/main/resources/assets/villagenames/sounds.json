@@ -1,0 +1,97 @@
+{
+  "curse":{
+      "category": "hostile",
+    "sounds": [
+      "minecraft:mob/guardian/curse"
+    ]
+  },
+  "elder_death":{
+      "category": "hostile",
+    "sounds": [
+       "minecraft:mob/guardian/elder_death"
+    ]
+  },
+  "elder_hit":{
+      "category": "hostile",
+    "sounds": [
+       "minecraft:mob/guardian/elder_hit1",
+       "minecraft:mob/guardian/elder_hit2",
+       "minecraft:mob/guardian/elder_hit3",
+       "minecraft:mob/guardian/elder_hit4"
+    ]
+  },
+  "elder_idle":{
+      "category": "hostile",
+    "sounds": [
+       "minecraft:mob/guardian/elder_idle1",
+       "minecraft:mob/guardian/elder_idle2",
+       "minecraft:mob/guardian/elder_idle3",
+       "minecraft:mob/guardian/elder_idle4"
+    ]
+  },
+  "flop":{
+      "category": "hostile",
+    "sounds": [
+       "minecraft:mob/guardian/flop1",
+       "minecraft:mob/guardian/flop2",
+       "minecraft:mob/guardian/flop3",
+       "minecraft:mob/guardian/flop4"
+    ]
+  },
+  
+  "guardian_attack_loop":{
+      "category": "hostile",
+    "sounds": [
+       "minecraft:mob/guardian/attack_loop"
+    ]
+  },
+  "guardian_death":{
+      "category": "hostile",
+    "sounds": [
+       "minecraft:mob/guardian/guardian_death"
+    ]
+  },
+  "guardian_hit":{
+      "category": "hostile",
+    "sounds": [
+       "minecraft:mob/guardian/guardian_hit1",
+       "minecraft:mob/guardian/guardian_hit2",
+       "minecraft:mob/guardian/guardian_hit3",
+       "minecraft:mob/guardian/guardian_hit4"
+    ]
+  },
+  "guardian_idle":{
+      "category": "hostile",
+    "sounds": [
+       "minecraft:entity/guardian/ambient1",
+       "minecraft:entity/guardian/ambient2",
+       "minecraft:entity/guardian/ambient3",
+       "minecraft:entity/guardian/ambient4"
+    ]
+  },
+  "land_death":{
+      "category": "hostile",
+    "sounds": [
+      "minecraft:mob/guardian/land_death"
+    ]
+  },
+  "land_hit":{
+      "category": "hostile",
+    "sounds": [
+      "minecraft:mob/guardian/land_hit1",
+       "minecraft:mob/guardian/land_hit2",
+       "minecraft:mob/guardian/land_hit3",
+       "minecraft:mob/guardian/land_hit4"
+    ]
+  },
+  "land_idle":{
+      "category": "hostile",
+    "sounds": [
+      "minecraft:mob/guardian/land_idle1",
+       "minecraft:mob/guardian/land_idle2",
+       "minecraft:mob/guardian/land_idle3",
+       "minecraft:mob/guardian/land_idle4"
+    ]
+  }
+  
+}
